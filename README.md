@@ -1,2 +1,2 @@
 # gitskill
-create a new branch is ccc
+create a new branch 
